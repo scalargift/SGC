@@ -3,7 +3,7 @@ SGC Coin is a secure and energy efficient PoW/PoS coin. SGC Coin uses a faster P
 
 #SGC Coin Specification
 
-Maximum 15 million BitConnect coin will ever exist to the community.
+Maximum 15 million SGC coin will ever exist to the community.
 
 
 #How are they used?
